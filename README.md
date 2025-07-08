@@ -60,10 +60,6 @@ The model holds potential for real-world applications, such as:
 
 ## Getting Started
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/CyberSentryML.git
-
-
 Install dependencies:pip install -r requirements.txt
 
 
